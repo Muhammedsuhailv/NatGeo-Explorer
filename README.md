@@ -1,6 +1,6 @@
-# natgeo
+# NatGeo Explorer
 
-A new Flutter project.
+Embark on a thrilling adventure with the National Geographic app—an immersive journey into the wonders of our planet. Explore captivating stories, breathtaking imagery, and insightful documentaries that bring the world's most fascinating landscapes, wildlife, and cultures right to your fingertips. NatGeo app, where exploration meets education, offering an unparalleled journey of discovery and awe-inspiring knowledge about our extraordinary world.
 
 ## Getting Started
 
